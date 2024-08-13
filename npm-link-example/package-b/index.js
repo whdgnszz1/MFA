@@ -1,3 +1,3 @@
 // npm-link-example/package-b/index.js
 
-module.exports = "package-b";
+module.exports = "package-b-test";
