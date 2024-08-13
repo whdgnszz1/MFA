@@ -1,0 +1,12 @@
+{
+  "name": "npm-link-example",
+  "version": "1.0.0",
+  "description": "- [Guide](https://2woongjae.notion.site/npm-link-example-55ae9aaf3f724021af42546ffcd7d805?pvs=4)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
